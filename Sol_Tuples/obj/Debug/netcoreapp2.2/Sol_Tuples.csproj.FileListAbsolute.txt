@@ -1,0 +1,11 @@
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\bin\Debug\netcoreapp2.2\Sol_Tuples.deps.json
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\bin\Debug\netcoreapp2.2\Sol_Tuples.runtimeconfig.json
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\bin\Debug\netcoreapp2.2\Sol_Tuples.runtimeconfig.dev.json
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\bin\Debug\netcoreapp2.2\Sol_Tuples.dll
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\bin\Debug\netcoreapp2.2\Sol_Tuples.pdb
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\obj\Debug\netcoreapp2.2\Sol_Tuples.csprojAssemblyReference.cache
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\obj\Debug\netcoreapp2.2\Sol_Tuples.csproj.CoreCompileInputs.cache
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\obj\Debug\netcoreapp2.2\Sol_Tuples.AssemblyInfoInputs.cache
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\obj\Debug\netcoreapp2.2\Sol_Tuples.AssemblyInfo.cs
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\obj\Debug\netcoreapp2.2\Sol_Tuples.dll
+D:\#Github\C#\Sol_Tuples\Sol_Tuples_Csharp\Sol_Tuples\obj\Debug\netcoreapp2.2\Sol_Tuples.pdb
